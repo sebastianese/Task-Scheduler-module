@@ -1,7 +1,7 @@
 ﻿function Add-UpdateTask {
     <#
             .SYNOPSIS
-            This module is designed to schedule Windows Update tasks on our enviroment. 
+            This module is designed to schedule Windows Update tasks (you may replace for other commands). 
 You will be asked for the administration IP and for the date to schedule the patching Task. 
 Please make sure to use the same date format as on the example  
             .Example
